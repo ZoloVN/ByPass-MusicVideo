@@ -1,4 +1,6 @@
+https://github.com/ZoloVN/ByPass-MusicVideo/blob/main/screenshot_1784013093.png?raw=true
 # HƯỚNG DẪN CÀI ĐẶT & SỬ DỤNG
+
 ## Script Tách Nhạc Nền - Windows
 
 ---
